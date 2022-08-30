@@ -15,7 +15,7 @@ $ npm install
 ### Run
 
 ```
-Put your proxies in proxies.txt file
-$ npm start
+1. Put your proxies in proxies.txt file
+2. Run npm start in your terminal
 ```
 
