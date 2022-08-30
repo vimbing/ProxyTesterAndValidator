@@ -19,3 +19,8 @@ $ npm install
 2. Run npm start in your terminal
 ```
 
+### Credits
+
+```
+Tester uses https://api.myip.com for testing. 
+```
